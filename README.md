@@ -38,7 +38,7 @@ I am a fresher diving into the world of data science with great enthusiasm. I ha
 
 - **Programming Languages**: Python, 
 - **Data Manipulation and Analysis**: Pandas, NumPy, SQL
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Data Visualization**: Matplotlib, Seaborn, Plotly,PoweBI
 - **Machine Learning**: scikit-learn, TensorFlow, Keras
 - **Statistical Analysis**: Hypothesis testing, Regression analysis
 - **Version Control**: Git, GitHub
