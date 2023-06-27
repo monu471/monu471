@@ -22,7 +22,7 @@ I am a fresher diving into the world of data science with great enthusiasm. I ha
 
 ### 1. Project Name
 
-- Description:Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. Currently, there are over 500 bike-sharing programs around the world..
+- Description:**Bike sharing systems** are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. Currently, there are over 500 bike-sharing programs around the world..
 - Tools/Libraries:mongodb,python,sklearn,aws Ec2 and s3 bucket,Docker.
 - Key Learnings: model with prediction accuracy more than 95%.
 - Link: https://github.com/monu471/bike_requirement.
