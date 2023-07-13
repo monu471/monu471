@@ -44,6 +44,10 @@ I'm diving into the world of data science with great enthusiasm. I have a strong
 - **Data Cleaning and Preprocessing**: Feature engineering, Handling missing value
 - **Cloud Platforms**: AWS, Google Cloud (currently learning)
 
+  ## Certificates
+  - **Full stack data science**: [data science certificate](https://www.linkedin.com/in/monu-joshi-694136176/overlay/1635532557000/single-media-viewer/?profileId=ACoAACmqi1ABuAoX_uj5OaHan6cfI4vhJX66EjY)
+  - **stats for data scinece**:[statics for data scinece](https://www.linkedin.com/feed/update/urn:li:activity:7083353480895037440/)
+
 ## Learning Resources
 
 - Full stack Data science [https://ineuron.ai/]
