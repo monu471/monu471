@@ -6,7 +6,7 @@ Welcome to my data science portfolio! I'm Monu Joshi, a passionate data science 
 
 ## About Me
 
-I am a fresher diving into the world of data science with great enthusiasm. I have a strong background in mathematics and statistics, which provides me with a solid foundation for tackling complex data problems. I am eager to apply my skills and knowledge to extract meaningful insights from data.
+I'm diving into the world of data science with great enthusiasm. I have a strong background in mathematics and statistics, which provides me with a solid foundation for tackling complex data problems. I am eager to apply my skills and knowledge to extract meaningful insights from data.
 
 ## Github Stats 
 ### Overall Stats
@@ -25,14 +25,13 @@ I am a fresher diving into the world of data science with great enthusiasm. I ha
 - Description:**Bike sharing systems** are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. Currently, there are over 500 bike-sharing programs around the world..
 - Tools/Libraries:mongodb,python,sklearn,aws Ec2 and s3 bucket,Docker.
 - Key Learnings: model with prediction accuracy more than 95%.
-- Link: https://github.com/monu471/bike_requirement.
+- Link:[project](https://github.com/monu471/bike_requirement)
 
 ### 2. Project Name
 
-- Description: Briefly describe the project and its objectives.
-- Tools/Libraries: List the tools and libraries used in the project.
-- Key Learnings: Highlight the key learnings and insights gained from the project.
-- Link: Provide a link to the project repository or relevant documentation.
+- Description: Hotel Performance Dashboard .
+- Tools/Libraries: PowerBI.
+- Link: [dashboard](https://www.linkedin.com/feed/update/urn:li:activity:7036181354887192576/?originTrackingId=ndy5i1gnSvG57cEFHj2dFA%3D%3D)
 
 ## Skills
 
